@@ -1,3 +1,2 @@
 how are you today?
-<<<<<<< HEAD
-13456
+Pull truoc rooi moi dung
